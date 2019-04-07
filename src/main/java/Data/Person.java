@@ -1,3 +1,7 @@
+package Data;
+
+import Data.Address;
+
 public class Person {
 
     private String name;
